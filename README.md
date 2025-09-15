@@ -18,3 +18,17 @@
 ### OpenAI key concepts
 
 [OpenAI API](https://platform.openai.com/docs/api-reference/introduction)
+[Tokens](https://platform.openai.com/docs/concepts#tokens)
+
+### Getting started
+
+[Developer quickstart](https://platform.openai.com/docs/quickstart)
+[JavaScript](https://platform.openai.com/docs/libraries?language=javascript)
+
+## Create your first next-gen Node app
+
+### Node project setyp
+
+```js
+
+```
