@@ -24,11 +24,3 @@
 
 [Developer quickstart](https://platform.openai.com/docs/quickstart)
 [JavaScript](https://platform.openai.com/docs/libraries?language=javascript)
-
-## Create your first next-gen Node app
-
-### Node project setyp
-
-```js
-
-```
